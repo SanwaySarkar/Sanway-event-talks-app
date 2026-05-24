@@ -1,0 +1,15 @@
+# Generated files
+index.html
+
+# Node.js
+node_modules/
+
+# Gemini CLI temporary files
+.gemini/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
